@@ -1,4 +1,4 @@
-# printf by Asrat Asmelash, Yohannes Soressa
+# printf by Miliyon Befkadu, Mulu Gadissa Gulti
 This is our printf function recoded from scratch
 # Authorized functions and macros
 * write (man 2 write)
