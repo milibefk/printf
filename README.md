@@ -476,7 +476,7 @@ Output:
 
 ## Authors :black_nib:
 
-* Miliyon Befkadu <[Gsoft2022](https://github.com/Gsoft2022)>
+* Miliyon Befkadu <[milibefk](https://github.com/milibefk)>
 * Mulu Gadissa 
 
 ## License :lock:
