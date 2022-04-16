@@ -476,8 +476,8 @@ Output:
 
 ## Authors :black_nib:
 
-* Gemechu Mitiku Guteta <[Gsoft2022](https://github.com/Gsoft2022)>
-* Mikoo Moges 
+* Miliyon Befkadu <[Gsoft2022](https://github.com/Gsoft2022)>
+* Mulu Gadissa 
 
 ## License :lock:
 
