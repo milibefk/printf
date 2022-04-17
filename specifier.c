@@ -56,23 +56,6 @@ int get_print_func(char *s, va_list ap, params_t *params)
 }
 
 /**
- * get_print_func - finds the format func
- * @s: the format string
- * @ap: argument pointer
- * @params: the parameters struct
- *
- * Return: the number of bytes printed
- */
-int get_print_func(char *s, va_list ap, params_t *params)
-{
-	int (*f)(va_list, params_t *) = get_specifier(s);
-
-	if (f)
-		return (f(ap, params));
-	return (0);
-}
-
-/**
  * get_flag - finds the flag func
  * @s: the format string
  * @params: the parameters struct
